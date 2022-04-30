@@ -21,5 +21,5 @@ int main() {
   cout<<n<<" na sequencia de fibonacci e igual a "<<fib(n);
   
     system("pause");
-    return 0;
+    return (0);
 }
