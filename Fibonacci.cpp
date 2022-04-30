@@ -14,7 +14,7 @@ int main() {
   
   int n;
   
-  cout<<"\tCalculo da Sequenciua de Fibonacci";
+  cout<<"\tCalculo da Sequencia de Fibonacci";
   cout<<"\n\nDigite um numero para ser calculado: ";
   cin>>n;
   
