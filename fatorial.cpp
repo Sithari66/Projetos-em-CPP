@@ -20,6 +20,7 @@ int main() {
   cin>>n;
   
   cout<<n<<" fatorado e igual a "<<fatorial(n);
-
-    return 0;
+    
+    system ("pause");
+    return (0);
 }
