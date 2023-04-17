@@ -1,5 +1,10 @@
 // Os funcionários da MARIA DA PENHA CONFECÇÕES têm seus salários de acordo com a classe, conforme tabela:
 // Classe 1 = 800 | Classe 2 = 1100 | Classe 3 = 1100 | Classe 4 = 1500 | Classe 5 = 2500 | Classe 6 = 4000 | Classe 7 = 6000
+// Construir um algoritmo que leia o NOME e a CLASSE de cada um dos 350 funcionários e que calcule e imprima:
+
+//a) O nome de cada funcionário e seu salário.
+//b) O total de funcionários de cada classe.
+//c) Qual a classe tem mais funcionários e quantos funcionários esta classe tem.
 
 #include<iostream>
 using namespace std;
