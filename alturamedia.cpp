@@ -1,7 +1,7 @@
-# Construir um algoritmo que leia NOME, ALTURA e SEXO de um grupo indeterminado de pessoas e que calcule e imprima:
-#a) A média de altura dos homens.
-#b) A maior altura.
-#c) A menor altura.
+// Construir um algoritmo que leia NOME, ALTURA e SEXO de um grupo indeterminado de pessoas e que calcule e imprima:
+//a) A média de altura dos homens.
+//b) A maior altura.
+//c) A menor altura.
 
 #include<iostream>
 using namespace std;
